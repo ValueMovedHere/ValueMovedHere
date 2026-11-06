@@ -2,7 +2,7 @@
 
 ## About
 
-Matrix: @syntaxerror:mozilla.org
+Matrix: [@syntaxerror:mozilla.org](https://matrix.to/#/@syntaxerror:mozilla.org)
 
 Telegram: [@ValueMovedHere](https://t.me/ValueMovedHere)
 
